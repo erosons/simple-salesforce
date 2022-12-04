@@ -2,6 +2,8 @@
 Simple Salesforce
 *****************
 
+pip : https://pypi.org/project/simple-salesforce/0.3/
+
 .. image:: https://api.travis-ci.org/simple-salesforce/simple-salesforce.svg?branch=master
    :target: https://travis-ci.org/simple-salesforce/simple-salesforce
 
